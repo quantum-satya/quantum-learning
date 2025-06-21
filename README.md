@@ -64,3 +64,39 @@ quantum-learning/
 └── Images/
     └── blackboard-diagram-light-mirror.png
 
+You’ll find:
+
+Quantum algorithms (in Qiskit)
+
+LaTeX or Markdown notes for QED and linear algebra
+
+Reflections from farming → physics metaphors
+
+Embedded video links and chalkboard diagrams
+
+✨ My Mission
+I believe quantum education should not be limited to labs and metros. With a piece of chalk, a blackboard, and a cow in the background 🐄, I aim to bring quantum knowledge to rural learners.
+
+🙋‍♂️ Connect with Me
+📧 Email: satya.pal@falcon9.in
+
+🌐 GitHub: https://github.com/your-username
+
+📺 YouTube: QuantumSatya
+
+🧠 Qiskit Slack: @satya-quantum
+
+🔜 Upcoming Work
+Simon’s Algorithm – visualized on blackboard
+
+Linear Algebra Projections in Qiskit
+
+Video: “How Farming Taught Me Quantum Reflection”
+
+“The first principle is that you must not fool yourself — and you are the easiest person to fool.”
+— Richard P. Feynman
+
+⭐️ If you found this interesting, feel free to star 🌟 the repo and share it with other learners.
+
+markdown
+Copy code
