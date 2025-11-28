@@ -98,5 +98,3 @@ Video: “How Farming Taught Me Quantum Reflection”
 
 ⭐️ If you found this interesting, feel free to star 🌟 the repo and share it with other learners.
 
-markdown
-Copy code
